@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550167184 source:c:\users\hp\documents\projects\data_structure\data_14\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

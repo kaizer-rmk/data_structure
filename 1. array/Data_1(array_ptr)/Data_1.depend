@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549192621 source:c:\users\hp\documents\projects\data_structure\data_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1551110213 source:c:\users\hp\documents\projects\data_structure\1. array\data_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1551110213 source:c:\users\mukes\onedrive\documents\projects\data_structure\1. array\data_1(array_ptr)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

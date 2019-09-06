@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1550852888 source:c:\users\hp\documents\projects\data_structure\data_20\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1551200980 source:c:\users\hp\documents\projects\data_structure\6. singly linked list\data_18(implementation)\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

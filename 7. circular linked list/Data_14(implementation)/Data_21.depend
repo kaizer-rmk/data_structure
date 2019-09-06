@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1551033268 source:c:\users\hp\documents\projects\data_structure\data_21\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1551037149 source:c:\users\hp\documents\projects\data_structure\5. circular linked list\data_19\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
